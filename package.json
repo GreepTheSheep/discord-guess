@@ -1,0 +1,30 @@
+{
+  "name": "discord-guess",
+  "version": "1.0.0",
+  "description": "Discord bot to esaily create and host guess games",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreepTheSheep/discord-guess.git"
+  },
+  "keywords": [
+    "Discord",
+    "guess",
+    "game"
+  ],
+  "author": "Greep",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/GreepTheSheep/discord-guess/issues"
+  },
+  "homepage": "https://github.com/GreepTheSheep/discord-guess#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0"
+  }
+}
